@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GoblinWarior.ixx.obj",
+            "outputs": [
+                "C:\\Users\\adamk\\Desktop\\STUDIA\\Rok II\\SEM II\\PK\\github\\WindowGame\\Gra okienkowa\\Gra okienkowa\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\adamk\\Desktop\\STUDIA\\Rok II\\SEM II\\PK\\github\\WindowGame\\Gra okienkowa\\Gra okienkowa\\x64\\Debug\\GoblinWarior.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GoblinWarior",
+                    "source-path": "c:\\users\\adamk\\desktop\\studia\\rok ii\\sem ii\\pk\\github\\windowgame\\gra okienkowa\\gra okienkowa\\goblinwarior.ixx"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

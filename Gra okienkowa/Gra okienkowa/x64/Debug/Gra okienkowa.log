@@ -1,0 +1,106 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Draw.ixx
+  Minimap.ixx
+  Goblin.ixx
+  Bullet.ixx
+  GoblinWarior.ixx
+  Player.ixx
+  Interface.ixx
+  Equipment.ixx
+  Game.ixx
+  Enemy.ixx
+  GoblinThief.ixx
+  CollisionCheck.ixx
+  PlayerStats.ixx
+  Map.ixx
+  GoblinMage.ixx
+  StartMenu.ixx
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Player.ixx(1,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Player.ixx(1,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Interface.ixx(3,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Interface.ixx(3,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Draw.ixx(1,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Draw.ixx(1,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Bullet.ixx(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Bullet.ixx(2,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Minimap.ixx(3,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Minimap.ixx(3,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Goblin.ixx(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Goblin.ixx(2,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Game.ixx(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Game.ixx(2,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\CollisionCheck.ixx(1,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\PlayerStats.ixx(4,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\CollisionCheck.ixx(1,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\PlayerStats.ixx(4,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Equipment.ixx(5,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Equipment.ixx(5,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Map.ixx(1,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\GoblinMage.ixx(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Map.ixx(1,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(4,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\GoblinMage.ixx(2,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(4,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Enemy.ixx(5,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Enemy.ixx(5,10): fatal  error C1083: Nie mo┐na otworzyŠ pliku do│╣cz: 'SFML/Graphics.hpp': No such file or directory
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Bullet.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\CollisionCheck.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Draw.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Enemy.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Equipment.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Game.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Goblin.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\GoblinMage.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Interface.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Map.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Minimap.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\Player.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\PlayerStats.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Nie można odczytać pliku zależności modułu x64\Debug\StartMenu.ixx.module.json: Oczekiwany element „root” z przestrzeni nazw „”.. Napotkano „None” o nazwie „”, przestrzeń nazw „”.  Kolejność kompilowania może być niepoprawna.
+  Trwa kompilowanie…
+  Draw.ixx
+  Enemy.ixx
+  Goblin.ixx
+  CollisionCheck.ixx
+  Equipment.ixx
+  Bullet.ixx
+  Game.ixx
+  GoblinThief.ixx
+  Interface.ixx
+  PlayerStats.ixx
+  Player.ixx
+  GoblinMage.ixx
+  Map.ixx
+  GoblinWarior.ixx
+  Minimap.ixx
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\GoblinMage.ixx(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Map.ixx(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Draw.ixx(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Goblin.ixx(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Player.ixx(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\GoblinMage.ixx(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Map.ixx(1,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Bullet.ixx(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Player.ixx(1,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Goblin.ixx(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Draw.ixx(1,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Bullet.ixx(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\CollisionCheck.ixx(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\CollisionCheck.ixx(1,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  StartMenu.ixx
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Minimap.ixx(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Minimap.ixx(3,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\StartMenu.ixx(4,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Interface.ixx(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Interface.ixx(3,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\PlayerStats.ixx(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\PlayerStats.ixx(4,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Game.ixx(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Game.ixx(2,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Equipment.ixx(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Equipment.ixx(5,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Enemy.ixx(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\adamk\Desktop\STUDIA\Rok II\SEM II\PK\github\WindowGame\Gra okienkowa\Gra okienkowa\Enemy.ixx(5,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory

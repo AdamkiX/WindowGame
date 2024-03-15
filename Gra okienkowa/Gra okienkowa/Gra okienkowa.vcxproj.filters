@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Interface">
+      <UniqueIdentifier>{edc1d1a1-ff49-47ee-b7f0-bfbfd123e0d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Interface">
+      <UniqueIdentifier>{5c9c3197-7eec-455b-9817-280da80c2ba0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Enemies">
+      <UniqueIdentifier>{3f97f820-7f14-4738-8b4e-f5c51d06deb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Enemies">
+      <UniqueIdentifier>{d427abcc-d4aa-4ce8-8be4-e7dbed4fb2e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Enemies\Goblins">
+      <UniqueIdentifier>{729e7b0c-e36f-40bf-ae12-f38a18567488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Enemies\Goblins">
+      <UniqueIdentifier>{2271150b-57a8-489f-b856-6abeb405376c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Mechanics">
+      <UniqueIdentifier>{9baf7657-e613-4acd-9fc0-94407cf22eeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Mechanics">
+      <UniqueIdentifier>{2079d48b-a06f-4872-9a9d-0bade89780a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.ixx">
+      <Filter>Pliki nagłówkowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimap.ixx">
+      <Filter>Pliki nagłówkowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStats.ixx">
+      <Filter>Pliki nagłówkowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Pliki źródłowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimap.cpp">
+      <Filter>Pliki źródłowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStats.cpp">
+      <Filter>Pliki źródłowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Equipment.ixx">
+      <Filter>Pliki nagłówkowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Equipment.cpp">
+      <Filter>Pliki źródłowe\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.ixx">
+      <Filter>Pliki nagłówkowe\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Pliki źródłowe\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinWarior.ixx">
+      <Filter>Pliki nagłówkowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinMage.ixx">
+      <Filter>Pliki nagłówkowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinThief.ixx">
+      <Filter>Pliki nagłówkowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinWarior.cpp">
+      <Filter>Pliki źródłowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinMage.cpp">
+      <Filter>Pliki źródłowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="GoblinThief.cpp">
+      <Filter>Pliki źródłowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.cpp">
+      <Filter>Pliki źródłowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.ixx">
+      <Filter>Pliki nagłówkowe\Enemies\Goblins</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.ixx">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.ixx">
+      <Filter>Pliki nagłówkowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCheck.ixx">
+      <Filter>Pliki nagłówkowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenu.ixx">
+      <Filter>Pliki nagłówkowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.ixx">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.ixx">
+      <Filter>Pliki nagłówkowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCheck.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Gra okienkowa.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenu.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.ixx">
+      <Filter>Pliki nagłówkowe\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>Pliki źródłowe\Mechanics</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
